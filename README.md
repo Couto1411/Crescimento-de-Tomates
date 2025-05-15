@@ -171,3 +171,45 @@ Temos de considerar que esse sistema utilizou dados de uma cidade inteira, não 
 ## Compilação
 Para obter os resultados, basta apenas (no diretório) rodar o comando `python Tratamento_estufa.py` e em seguida `jupyter nbconvert --execute Estufa.ipynb --to notebook`
 Testado com python 3.12
+
+### Contato
+
+<table>
+    <tr> 
+        <td>Gabriel Couto</td>
+        <td>Gabriel Teixeira</td>
+        <td>Marcus Vinícius</td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://couto1411.github.io/HomePage/"
+                 target="_blank"
+                 rel="noopener noreferrer">
+                <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"
+                     alt="Website">
+            </a><br/>
+            <a href="https://www.linkedin.com/in/gabriel-couto-582060200/"
+             target="_blank"
+             rel="noopener noreferrer">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+                 alt="LinkedIn">
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/gabriel-julio-a3263b355/"
+             target="_blank"
+             rel="noopener noreferrer">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+                 alt="LinkedIn">
+            </a>
+        </td>
+        <td>
+            <a href="https://www.linkedin.com/in/marcusvnsantos/"
+             target="_blank"
+             rel="noopener noreferrer">
+                <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+                 alt="LinkedIn">
+            </a>
+        </td>
+    </tr>
+</table>
